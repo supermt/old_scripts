@@ -1,0 +1,125 @@
+Traceback (most recent call last):
+  File "./WebServer.py", line 84, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 86, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 86, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 81, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 82, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 83, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 80, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 80, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 80, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Traceback (most recent call last):
+  File "./WebServer.py", line 80, in <module>
+    start_web_server(start_args.get("-p",None))
+  File "./WebServer.py", line 32, in start_web_server
+    init_socket(Configuration.HOST,Configuration.PORT) #调用上面那段函数
+  File "./WebServer.py", line 19, in init_socket
+    listen_socket.bind((HOST, PORT)) # 将 listen_socket 这个 Socket 类实例绑定至 Host:PORT 端口
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use
+Unhandled exception in thread started by <function httpRequestHandler at 0x101613f50>
+Traceback (most recent call last):
+  File "/Users/MT/git/testscript/WebServer/PyWebServer/ResponseThread.py", line 58, in httpRequestHandler
+    request_body = line_list.pop(len(line_list)-1)
+Unhandled exception in thread started by <function httpRequestHandler at 0x101613f50>
+Traceback (most recent call last):
+IndexError  File "/Users/MT/git/testscript/WebServer/PyWebServer/ResponseThread.py", line 58, in httpRequestHandler
+:     request_body = line_list.pop(len(line_list)-1)
+pop from empty listIndexError
+: pop from empty list
+Unhandled exception in thread started by <function httpRequestHandler at 0x103927f50>
+Traceback (most recent call last):
+  File "/Users/MT/git/testscript/WebServer/PyWebServer/ResponseThread.py", line 73, in httpRequestHandler
+    resource_header[1],
+IndexError: list index out of range
+Unhandled exception in thread started by <function httpRequestHandler at 0x107ee7f50>
+Traceback (most recent call last):
+  File "/Users/MT/git/testscript/WebServer/PyWebServer/ResponseThread.py", line 76, in httpRequestHandler
+    response_header)#根据请求资源构建响应报文的头部，处理资源的同时添加 Content-Type 和 Content-Length（其他的已经在process_response_header处理完成）
+TypeError: 'NoneType' object is not iterable
+Unhandled exception in thread started by <function httpRequestHandler at 0x107ee7f50>
+Traceback (most recent call last):
+  File "/Users/MT/git/testscript/WebServer/PyWebServer/ResponseThread.py", line 76, in httpRequestHandler
+    response_header)#根据请求资源构建响应报文的头部，处理资源的同时添加 Content-Type 和 Content-Length（其他的已经在process_response_header处理完成）
+TypeError: 'NoneType' object is not iterable

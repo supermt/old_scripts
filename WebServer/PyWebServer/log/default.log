@@ -1,0 +1,79 @@
+[2018-04-29 09:46:15,321](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 09:46:15,352](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 09:46:55,436](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 09:46:55,456](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:26,797](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:26,829](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,580](INFO)root : Request for : /PythonException.html using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,607](INFO)root : Request for : /PythonException_files/font-awesome.min.css using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,608](INFO)root : Request for : /PythonException_files/style.css using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,630](INFO)root : Request for : /PythonException_files/hm.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,630](INFO)root : Request for : /PythonException_files/prettify.css using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,635](INFO)root : Request for : /PythonException_files/qa.css using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,636](INFO)root : Request for : /PythonException_files/jquery.min.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,638](INFO)root : Request for : /PythonException_files/simditor.min.css using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,641](INFO)root : Request for : /PythonException_files/module.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,642](INFO)root : Request for : /PythonException_files/feedback.css using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,650](INFO)root : Request for : /PythonException_files/hotkeys.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,655](INFO)root : Request for : /PythonException_files/simditor.min.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,659](INFO)root : Request for : /PythonException_files/feedback.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,666](INFO)root : Request for : /PythonException_files/main.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,672](INFO)root : Request for : /PythonException_files/adsbygoogle.js using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,678](INFO)root : Request for : /PythonException_files/qrcode.png using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,683](INFO)root : Request for : /PythonException_files/close.jpg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,687](INFO)root : Request for : /PythonException_files/weipayimg.png using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,693](INFO)root : Request for : /PythonException_files/wechat.jpg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,698](INFO)root : Request for : /PythonException_files/alipay.jpg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:11:32,736](INFO)root : Request for : /PythonException_files/assets/img/bg.gif using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-04-29 10:11:32,737](INFO)root : Request for : /images/codecolorer_bg.gif using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-04-29 10:11:32,744](INFO)root : Request for : /PythonException_files/assets/img/bullet.png using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-04-29 10:11:32,750](INFO)root : Request for : /PythonException_files/assets/img/runoob-logo.png using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-04-29 10:11:33,515](INFO)root : Request for : /wp-content/themes/runoob/assets/img/cd-icon-close.svg using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-04-29 10:15:29,368](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:15:29,496](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:18:21,742](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-04-29 10:18:21,772](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 15:19:13,888](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 15:19:14,274](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 15:19:43,576](INFO)root : Request for : / using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 15:19:43,604](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:26:37,557](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:35:03,647](INFO)root : Request for : /test.jpeg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,714](INFO)root : Request for : /PythonException.html using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,835](INFO)root : Request for : /PythonException_files/font-awesome.min.css using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,851](INFO)root : Request for : /PythonException_files/style.css using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,869](INFO)root : Request for : /PythonException_files/qa.css using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,872](INFO)root : Request for : /PythonException_files/hm.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,870](INFO)root : Request for : /PythonException_files/prettify.css using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,871](INFO)root : Request for : /PythonException_files/jquery.min.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,880](INFO)root : Request for : /PythonException_files/simditor.min.css using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,880](INFO)root : Request for : /PythonException_files/module.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,897](INFO)root : Request for : /PythonException_files/hotkeys.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:55,925](INFO)root : Request for : /PythonException_files/simditor.min.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,148](INFO)root : Request for : /PythonException_files/adsbygoogle.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,151](INFO)root : Request for : /PythonException_files/feedback.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,152](INFO)root : Request for : /PythonException_files/feedback.css using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,170](INFO)root : Request for : /PythonException_files/main.js using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,177](INFO)root : Request for : /PythonException_files/qrcode.png using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,184](INFO)root : Request for : /PythonException_files/close.jpg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,191](INFO)root : Request for : /PythonException_files/weipayimg.png using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,200](INFO)root : Request for : /PythonException_files/wechat.jpg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,208](INFO)root : Request for : /PythonException_files/alipay.jpg using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:39:56,468](INFO)root : Request for : /PythonException_files/assets/img/bg.gif using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:39:56,480](INFO)root : Request for : /images/codecolorer_bg.gif using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:39:56,483](INFO)root : Request for : /PythonException_files/assets/img/bullet.png using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:39:56,490](INFO)root : Request for : /PythonException_files/assets/img/runoob-logo.png using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:39:57,952](INFO)root : Request for : /PythonException_files/simditor.min.js.map using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:39:58,103](INFO)root : Request for : /PythonException_files/simditor.min.css.map using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:39:58,354](INFO)root : Request for : /wp-content/themes/runoob/assets/img/cd-icon-close.svg using GET method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:51:39,224](INFO)root : Request for : /index2.txt using POST method returns in HTTP/1.1 400 BAD REQUEST
+[2018-05-01 17:51:51,841](ERROR)root : global name 'request_resource' is not defined
+[2018-05-01 17:51:51,844](INFO)root : Request for : /index2.txt using DELETE method returns in HTTP/1.1 502 BAD GATEWAY
+[2018-05-01 17:52:59,536](INFO)root : Request for : /index2.txt using POST method returns in HTTP/1.1 400 BAD REQUEST
+[2018-05-01 17:53:23,406](INFO)root : Request for : /index2.txt using DELETE method returns in HTTP/1.1 404 NOT FOUND
+[2018-05-01 17:53:29,007](INFO)root : Request for : /index2.txt using POST method returns in HTTP/1.1 200 OK
+[2018-05-01 17:54:04,752](INFO)root : Request for : /index2.txt using GET method returns in HTTP/1.1 200 OK
+[2018-05-01 17:54:31,708](INFO)root : Request for : /index2.txt using POST method returns in HTTP/1.1 400 BAD REQUEST
+[2018-05-01 17:56:16,941](INFO)root : Request for : /index2.txt using POST method returns in HTTP/1.1 200 OK
+[2018-05-01 17:56:19,092](INFO)root : Request for : /index2.txt using DELETE method returns in HTTP/1.1 200 OK
+[2018-05-01 17:56:48,330](INFO)root : Request for : /index2.txt using POST method returns in HTTP/1.1 200 OK
